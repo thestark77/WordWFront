@@ -1,0 +1,7 @@
+{
+  "name": "Word Wise",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
